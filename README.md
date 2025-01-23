@@ -54,10 +54,10 @@ numpy==1.23.5
 ---
 ## 🎥 Outputs
 ### Images:
-1. ![Output Image 1](outputs/output_image1.jpg)
-2. ![Output Image 2](outputs/output_image2.jpg)
-3. ![Output Image 3](outputs/output_image3.jpg)
-4. ![Output Image 4](outputs/output_image4.jpg)
+![Output Image 1](Output_/Img_4.png)
+![Output Image 2](Output_/Img_2.png)
+![Output Image 3](Output_/Img_1.png)
+![Output Image 4](Output_/Img_3.png)
 
 
 ---
