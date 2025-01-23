@@ -62,5 +62,9 @@ numpy==1.23.5
 
 ---
 ### Videos:
-1. [Output Video 1](Output_/Video_1.gif)
+1. [Output Video 1](Output_/Video_1.mp4)
 2. [Output Video 2](Output_/Video_2.mp4)
+
+___
+
+# <<<<< THANK YOU >>>>>
