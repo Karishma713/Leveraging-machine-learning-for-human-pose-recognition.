@@ -62,5 +62,5 @@ numpy==1.23.5
 
 ---
 ### Videos:
-1. [Output Video 1](outputs/output_video1.mp4)
-2. [Output Video 2](outputs/output_video2.mp4)
+1. [Output Video 1](Output_/Video_1.mp4)
+2. [Output Video 2](Output_/Video_2.mp4)
